@@ -44,7 +44,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ariel-arzamendia/"><img alt="LinkedIn" </a>
+<a href="https://www.linkedin.com/in/ariel-arzamendia"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
 
 
 <a href="mailto:arzamendiaariel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arzamendiaariel@gmail.com-blue?style=flat-square&logo=gmail"></a>
